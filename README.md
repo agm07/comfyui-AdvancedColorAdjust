@@ -18,6 +18,7 @@
 ├───────────┼─────────────────────────────────────────┤
 │  HDR Mask │ (optional)                             │
 └───────────┴─────────────────────────────────────────┘
+
 This custom ComfyUI node allows for advanced image processing with mask support, brightness/contrast control, and optional HDR effects.
 Inputs:
 
